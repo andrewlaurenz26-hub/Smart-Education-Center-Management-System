@@ -1,0 +1,7 @@
+{
+  "name": "Smart Education Center Management System",
+  "description": "A comprehensive management platform for education centers, featuring student tracking, automated certificate issuance, class booking, and infrastructure monitoring for server, network, and security operations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
